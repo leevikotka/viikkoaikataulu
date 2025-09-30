@@ -1,60 +1,4 @@
-**index.html**
 
-```html
-<!doctype html>
-<html lang="fi">
-<head>
-  <meta charset="utf-8">
-  <title>Viikkoaikataulu</title>
-  <link rel="stylesheet" href="tyyli.css">
-</head>
-<body>
-  <h1>"leevi kotkavalkama" viikkoaikataulu</h1>
-
-  <table>
-    <tr>
-      <th>Aika</th>
-      <th>Ma</th>
-      <th>Ti</th>
-      <th>Ke</th>
-      <th>To</th>
-      <th>Pe</th>
-    </tr>
-    <tr>
-      <td>8–10</td>
-      <td class="matematiikka">Matematiikka</td>
-      <td class="ohjelmointi">Ohjelmointi</td>
-      <td class="matematiikka">Matematiikka</td>
-      <td class="ohjelmointi">Ohjelmointi</td>
-      <td class="vapaa">Vapaa</td>
-    </tr>
-    <tr>
-      <td>10–12</td>
-      <td class="ohjelmointi">Ohjelmointi</td>
-      <td class="matematiikka">Matematiikka</td>
-      <td class="vapaa">Vapaa</td>
-      <td class="matematiikka">Matematiikka</td>
-      <td class="ohjelmointi">Ohjelmointi</td>
-    </tr>
-    <tr>
-      <td>12–14</td>
-      <td class="vapaa">Vapaa</td>
-      <td class="vapaa">Vapaa</td>
-      <td class="kuntosali">Kuntosali</td>
-      <td class="kuntosali">Kuntosali</td>
-      <td class="vapaa">Vapaa</td>
-    </tr>
-    <tr>
-      <td>14–16</td>
-      <td class="vapaa">Vapaa</td>
-      <td class="vapaa">Vapaa</td>
-      <td class="vapaa">Vapaa</td>
-      <td class="vapaa">Vapaa</td>
-      <td class="vapaa">Vapaa</td>
-    </tr>
-  </table>
-</body>
-</html>
 ```
 
 
@@ -82,4 +26,5 @@ th, td {
 .vapaa        { background: #d6f5d6; }
 .kuntosali    { background: #707e70; color: white; }
 ```
+
 
