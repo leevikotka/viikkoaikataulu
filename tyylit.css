@@ -1,24 +1,4 @@
 
-```
-
-
-```css
-body {
-  font-family: Arial, sans-serif;
-  color: #333;
-}
-
-table {
-  border-collapse: collapse;
-  width: 100%;
-  margin-top: 20px;
-}
-
-th, td {
-  border: 1px solid #333;
-  padding: 10px;
-  text-align: center;
-}
 
 /* Värikoodit */
 .matematiikka { background: #ffe0cc; }
@@ -26,5 +6,6 @@ th, td {
 .vapaa        { background: #d6f5d6; }
 .kuntosali    { background: #707e70; color: white; }
 ```
+
 
 
