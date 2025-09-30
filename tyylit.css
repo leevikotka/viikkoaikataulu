@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="tyyli.css">
 </head>
 <body>
-  <h1>"Kirjoita tähän omanimesi" viikkoaikataulu</h1>
+  <h1>"leevi kotkavalkama" viikkoaikataulu</h1>
 
   <table>
     <tr>
@@ -57,7 +57,6 @@
 </html>
 ```
 
-**tyyli.css**
 
 ```css
 body {
@@ -83,3 +82,4 @@ th, td {
 .vapaa        { background: #d6f5d6; }
 .kuntosali    { background: #707e70; color: white; }
 ```
+
